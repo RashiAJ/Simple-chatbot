@@ -1,4 +1,18 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+before running the development server 
+
+
+
+download next.js framework npx install etc
+download necessary dependencies 
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
